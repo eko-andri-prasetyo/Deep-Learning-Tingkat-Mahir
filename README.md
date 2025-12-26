@@ -1,7 +1,7 @@
 # DLTM - Multivariate Multi-Horizon Time Series Forecasting (Bitcoin Close)
 
 Folder ini berisi:
-- Notebook: SyaikhEko_Submission_Akhir_DLTM.ipynb
+- Notebook: Submission_Akhir_DLTM.ipynb
 - Model mandatory (akan terbuat saat notebook dijalankan):
   - model_baseline_LSTM.keras
   - model_seq2seq_LSTM.keras
